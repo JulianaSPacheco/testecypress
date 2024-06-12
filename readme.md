@@ -6,3 +6,4 @@ Criado packge jason.
 Criado Cypress.
 Feito primeiro teste cyprees.
 Inseri loja ebac.
+NOVO TESTE LOGIN LOJA EBAC.
