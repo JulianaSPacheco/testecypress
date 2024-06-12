@@ -5,3 +5,4 @@ Agora é resultado!
 Criado packge jason.
 Criado Cypress.
 Feito primeiro teste cyprees.
+Inseri loja ebac.
